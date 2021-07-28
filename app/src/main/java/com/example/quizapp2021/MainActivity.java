@@ -78,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
                     score +=1;
                 }
                 else
+                    {
                     text = getString(R.string.incorrectMessage);
                 }
                 Context context = getApplicationContext();

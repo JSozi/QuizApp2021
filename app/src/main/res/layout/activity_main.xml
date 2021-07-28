@@ -27,9 +27,5 @@
         android:text="Next"
         android:id="@+id/NextButton" />
 
-     // Luganda Strng (lu locale), values-lu/strings.xml:
-    <resources>
-        <string android:name="King of Buganda"> Kabaka of Buganda!</string>
-    </resources>
-
+     
 </LinearLayout>
