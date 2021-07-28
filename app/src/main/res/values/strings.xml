@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizApp2021</string>
+    <string name="trueB">True</string>
+    <string name="falseB">False</string>
+    <string name="correctMessage">CORRECT</string>
+    <string name="incorrectMessage">Sorry</string>
+</resources>
