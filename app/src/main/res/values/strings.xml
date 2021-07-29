@@ -5,31 +5,7 @@
     <string name="correctMessage">CORRECT</string>
     <string name="incorrectMessage">Sorry</string>
 
-    //creating multiple languages!!
-    <string name="app_name1">Multilingual Demo</string>
-    <string name="tap_text">Select any language below :</string>
-    <string name="btn_en">English</string>
-    <string name="btn_ru">Russian</string>
-    <string name="btn_de">German</string>
-    <string name="btn_fr">French</string>
-    <string name="btn_hi">Hindi</string>
     <string name="Luganda">values-lg-rUG</string>
-
-//untranslatable rows!!
-    <string name="app_name2" translatable="false">EasyApp</string>
-    <string name="action_settings">Settings</string>
-    <string name="easy_app">I am a Simple App!</string>
-    <string name="next_page">Next Page</string>
-    <string name="second_page_message">I am the Second Page!</string>
-    <string name="title_activity_second">SecondActivity</string>
-    <string name="app_name3">Multi Language App</string>
-    <string name="welcome">Welcome!</string>
-    <string name="email">Email Address</string>
-    <string name="password">Password</string>
-    <string name="login">Login</string>
-    <string name="signup">Don\'t have account? Sign Up</string>
-
-
 
 
 </resources>
